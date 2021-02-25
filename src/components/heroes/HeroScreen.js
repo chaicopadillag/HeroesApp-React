@@ -16,7 +16,7 @@ const HeroScreen = ({ history }) => {
 	};
 	return (
 		<div className="container">
-			<h2 className="tex-container">Hero</h2>
+			<h2 className="tex-center">Hero</h2>
 			<hr />
 			<div className="row animate__animated animate__fadeIn">
 				<div className="col-12 col-md-4 animate__animated animate__fadeInLeft">

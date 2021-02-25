@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en  <LoginScreen/> debe de mostrar correctamente 1`] = `
+<div
+  className="container mt-2"
+>
+  <h2>
+    Login
+  </h2>
+  <hr />
+  <button
+    className="btn btn-primary"
+    onClick={[Function]}
+  >
+    Login in App Heroes
+  </button>
+</div>
+`;

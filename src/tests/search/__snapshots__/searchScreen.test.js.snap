@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba a component <SearchScreen/> debe mostrar los valores por defecto 1`] = `
+<div
+  className="container mt-2"
+>
+  <h2
+    className="text-center"
+  >
+    Search Heroes
+  </h2>
+  <hr />
+  <div
+    className="row"
+  >
+    <div
+      className="col-6 offset-3"
+    >
+      <form
+        className="row d-flex justify-content-between"
+        method="POST"
+        onSubmit={[Function]}
+      >
+        <div
+          className="col-8"
+        >
+          <input
+            autoComplete="off"
+            className="form-control"
+            name="search"
+            onChange={[Function]}
+            placeholder="Keywork"
+            type="text"
+            value=""
+          />
+        </div>
+        <div
+          className="col-4"
+        >
+          <button
+            className="btn btn-outline-primary"
+          >
+            Search
+          </button>
+        </div>
+      </form>
+    </div>
+    <div
+      className="col-12"
+    >
+      <h2>
+        Resul search
+      </h2>
+      <div
+        className="row"
+      >
+        <div
+          className="alert alert-success"
+        >
+          Search a Hero
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
